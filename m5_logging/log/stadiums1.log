@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-10T18:16:54.324274991Z</date>
+  <millis>1702232214324</millis>
+  <nanos>274991</nanos>
+  <sequence>0</sequence>
+  <logger>be.kdg.model.FootballStadium</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.model.FootballStadium</class>
+  <method>setName</method>
+  <thread>1</thread>
+  <message>Stadium name is "empty or null", cannnot be empty</message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.355712592Z</date>
+  <millis>1702232214355</millis>
+  <nanos>712592</nanos>
+  <sequence>1</sequence>
+  <logger>be.kdg.model.FootballStadium</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.model.FootballStadium</class>
+  <method>setCity</method>
+  <thread>1</thread>
+  <message>City of stadium of null is configured as , it cannot be null or empty</message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.356122971Z</date>
+  <millis>1702232214356</millis>
+  <nanos>122971</nanos>
+  <sequence>2</sequence>
+  <logger>be.kdg.model.FootballStadium</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.model.FootballStadium</class>
+  <method>setOpened</method>
+  <thread>1</thread>
+  <message>Stadium opening date is configured as 2024-09-24 for TestStadium, cannot in the future</message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.359931761Z</date>
+  <millis>1702232214359</millis>
+  <nanos>931761</nanos>
+  <sequence>3</sequence>
+  <logger>be.kdg.model.FootballStadium</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.model.FootballStadium</class>
+  <method>setCost</method>
+  <thread>1</thread>
+  <message>Stadium cost 0.0 cannot be negative or larger than 1 million for stadium with name: empty string</message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.367705293Z</date>
+  <millis>1702232214367</millis>
+  <nanos>705293</nanos>
+  <sequence>4</sequence>
+  <logger>be.kdg.model.FootballStadium</logger>
+  <level>SEVERE</level>
+  <class>be.kdg.model.FootballStadium</class>
+  <method>setCapacity</method>
+  <thread>1</thread>
+  <message>Stadium capacity 10000000 of TestStadium, annot be negative or larger than 1 million
+</message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.370168128Z</date>
+  <millis>1702232214370</millis>
+  <nanos>168128</nanos>
+  <sequence>5</sequence>
+  <logger>be.kdg.model.FootballStadiums</logger>
+  <level>FINER</level>
+  <class>be.kdg.model.FootballStadiums</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Added: Camp Nou                       City: Barcelona        Opened:1957-09-24      Roof:OPEN                      Cost:€ 1730000000.0 s  Capacity:99354          </message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.370679496Z</date>
+  <millis>1702232214370</millis>
+  <nanos>679496</nanos>
+  <sequence>6</sequence>
+  <logger>be.kdg.model.FootballStadiums</logger>
+  <level>FINER</level>
+  <class>be.kdg.model.FootballStadiums</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Added: Wembley Stadium                City: London           Opened:2007-03-09      Roof:PARTIALLYRETRACTABLE      Cost:€ 922130000.0  s  Capacity:90000          </message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.371163068Z</date>
+  <millis>1702232214371</millis>
+  <nanos>163068</nanos>
+  <sequence>7</sequence>
+  <logger>be.kdg.model.FootballStadiums</logger>
+  <level>FINER</level>
+  <class>be.kdg.model.FootballStadiums</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Added: Santiago Bernabéu              City: Madrid           Opened:1957-09-09      Roof:RETRACTABLE               Cost:€ 893000000.0  s  Capacity:81044          </message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.371635744Z</date>
+  <millis>1702232214371</millis>
+  <nanos>635744</nanos>
+  <sequence>8</sequence>
+  <logger>be.kdg.model.FootballStadiums</logger>
+  <level>FINER</level>
+  <class>be.kdg.model.FootballStadiums</class>
+  <method>add</method>
+  <thread>1</thread>
+  <message>Added: Croke Park                     City: Dublin           Opened:1884-01-01      Roof:OPEN                      Cost:€ 260000000.0  s  Capacity:82300          </message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.372188527Z</date>
+  <millis>1702232214372</millis>
+  <nanos>188527</nanos>
+  <sequence>9</sequence>
+  <logger>be.kdg.model.FootballStadiums</logger>
+  <level>FINER</level>
+  <class>be.kdg.model.FootballStadiums</class>
+  <method>remove</method>
+  <thread>1</thread>
+  <message>Removed: Camp Nou                       City: Barcelona        Opened:1957-09-24      Roof:OPEN                      Cost:€ 1730000000.0 s  Capacity:99354          </message>
+</record>
+<record>
+  <date>2023-12-10T18:16:54.372630684Z</date>
+  <millis>1702232214372</millis>
+  <nanos>630684</nanos>
+  <sequence>10</sequence>
+  <logger>be.kdg.model.FootballStadiums</logger>
+  <level>FINER</level>
+  <class>be.kdg.model.FootballStadiums</class>
+  <method>remove</method>
+  <thread>1</thread>
+  <message>Removed: Santiago Bernabéu              City: Madrid           Opened:1957-09-09      Roof:RETRACTABLE               Cost:€ 893000000.0  s  Capacity:81044          </message>
+</record>
+</log>

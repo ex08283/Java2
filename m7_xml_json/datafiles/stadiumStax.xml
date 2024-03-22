@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<footballstadiums>
+  <footballstadium rooftype="OPEN">
+    <name>Camp Nou</name>
+    <city>Barcelona</city>
+    <opened>1957-09-24</opened>
+    <cost>1.73E9</cost>
+    <capacity>99354</capacity>
+  </footballstadium>
+  <footballstadium rooftype="PARTIALLYRETRACTABLE">
+    <name>Wembley Stadium</name>
+    <city>London</city>
+    <opened>2007-03-09</opened>
+    <cost>9.2213E8</cost>
+    <capacity>90000</capacity>
+  </footballstadium>
+  <footballstadium rooftype="RETRACTABLE">
+    <name>Santiago Bernabéu</name>
+    <city>Madrid</city>
+    <opened>1957-09-09</opened>
+    <cost>8.93E8</cost>
+    <capacity>81044</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Croke Park</name>
+    <city>Dublin</city>
+    <opened>1884-01-01</opened>
+    <cost>2.6E8</cost>
+    <capacity>82300</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Stade de France</name>
+    <city>Saint-Denis</city>
+    <opened>1995-05-02</opened>
+    <cost>3.64E8</cost>
+    <capacity>80000</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Westfalenstadion</name>
+    <city>Dortmmund</city>
+    <opened>1974-04-02</opened>
+    <cost>2.37E8</cost>
+    <capacity>81365</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>San Siro</name>
+    <city>Milan</city>
+    <opened>1926-09-19</opened>
+    <cost>2500.0</cost>
+    <capacity>75817</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Old Trafford</name>
+    <city>Manchester</city>
+    <opened>1910-02-19</opened>
+    <cost>90000.0</cost>
+    <capacity>74310</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Atatürk Olympic Stadium</name>
+    <city>Istanbul</city>
+    <opened>2002-07-31</opened>
+    <cost>2.8E8</cost>
+    <capacity>74753</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Olympiastadion</name>
+    <city>Berlin</city>
+    <opened>1936-08-01</opened>
+    <cost>2.97E8</cost>
+    <capacity>74667</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Puskás Aréna</name>
+    <city>Budapest</city>
+    <opened>2019-09-15</opened>
+    <cost>5.33E8</cost>
+    <capacity>74753</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>London Stadium</name>
+    <city>London</city>
+    <opened>2008-05-22</opened>
+    <cost>2.74E8</cost>
+    <capacity>66000</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Estádio da Luz</name>
+    <city>Lisbon</city>
+    <opened>2003-10-25</opened>
+    <cost>1.62E8</cost>
+    <capacity>64642</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Emirates Stadium</name>
+    <city>London</city>
+    <opened>2006-07-22</opened>
+    <cost>3.9E8</cost>
+    <capacity>60704</capacity>
+  </footballstadium>
+  <footballstadium rooftype="OPEN">
+    <name>Celtic Park</name>
+    <city>Glasgow</city>
+    <opened>1892-08-20</opened>
+    <cost>4.0E7</cost>
+    <capacity>83500</capacity>
+  </footballstadium>
+</footballstadiums>

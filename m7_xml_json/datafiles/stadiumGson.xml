@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Camp Nou",
+    "city": "Barcelona",
+    "opened": "1957-09-24",
+    "roofType": "OPEN",
+    "cost": 1.73E9,
+    "capacity": 99354
+  },
+  {
+    "name": "Wembley Stadium",
+    "city": "London",
+    "opened": "2007-03-09",
+    "roofType": "PARTIALLYRETRACTABLE",
+    "cost": 9.2213E8,
+    "capacity": 90000
+  },
+  {
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "opened": "1957-09-09",
+    "roofType": "RETRACTABLE",
+    "cost": 8.93E8,
+    "capacity": 81044
+  },
+  {
+    "name": "Croke Park",
+    "city": "Dublin",
+    "opened": "1884-01-01",
+    "roofType": "OPEN",
+    "cost": 2.6E8,
+    "capacity": 82300
+  },
+  {
+    "name": "Stade de France",
+    "city": "Saint-Denis",
+    "opened": "1995-05-02",
+    "roofType": "OPEN",
+    "cost": 3.64E8,
+    "capacity": 80000
+  },
+  {
+    "name": "Westfalenstadion",
+    "city": "Dortmmund",
+    "opened": "1974-04-02",
+    "roofType": "OPEN",
+    "cost": 2.37E8,
+    "capacity": 81365
+  },
+  {
+    "name": "San Siro",
+    "city": "Milan",
+    "opened": "1926-09-19",
+    "roofType": "OPEN",
+    "cost": 2500.0,
+    "capacity": 75817
+  },
+  {
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "opened": "1910-02-19",
+    "roofType": "OPEN",
+    "cost": 90000.0,
+    "capacity": 74310
+  },
+  {
+    "name": "Atatürk Olympic Stadium",
+    "city": "Istanbul",
+    "opened": "2002-07-31",
+    "roofType": "OPEN",
+    "cost": 2.8E8,
+    "capacity": 74753
+  },
+  {
+    "name": "Olympiastadion",
+    "city": "Berlin",
+    "opened": "1936-08-01",
+    "roofType": "OPEN",
+    "cost": 2.97E8,
+    "capacity": 74667
+  },
+  {
+    "name": "Puskás Aréna",
+    "city": "Budapest",
+    "opened": "2019-09-15",
+    "roofType": "OPEN",
+    "cost": 5.33E8,
+    "capacity": 74753
+  },
+  {
+    "name": "London Stadium",
+    "city": "London",
+    "opened": "2008-05-22",
+    "roofType": "OPEN",
+    "cost": 2.74E8,
+    "capacity": 66000
+  },
+  {
+    "name": "Estádio da Luz",
+    "city": "Lisbon",
+    "opened": "2003-10-25",
+    "roofType": "OPEN",
+    "cost": 1.62E8,
+    "capacity": 64642
+  },
+  {
+    "name": "Emirates Stadium",
+    "city": "London",
+    "opened": "2006-07-22",
+    "roofType": "OPEN",
+    "cost": 3.9E8,
+    "capacity": 60704
+  },
+  {
+    "name": "Celtic Park",
+    "city": "Glasgow",
+    "opened": "1892-08-20",
+    "roofType": "OPEN",
+    "cost": 4.0E7,
+    "capacity": 83500
+  }
+]
